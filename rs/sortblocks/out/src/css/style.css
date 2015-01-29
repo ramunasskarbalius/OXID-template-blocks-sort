@@ -1,0 +1,50 @@
+.sortable1, .sortable2 {
+    border: 1px solid #eee;
+    width: 475px;
+    min-height: 20px;
+    list-style-type: none;
+    margin: 0 10px 0 0;
+    padding: 5px 0 0 0;
+    float: left;
+}
+
+.sortable1 li, .sortable2 li {
+    margin: 0 5px 5px 5px;
+    padding: 5px;
+    font-size: 1.2em;
+    width: 450px;
+    font-size: 12px;
+}
+
+#accordion {
+    width: 997px;
+}
+
+#accordion h4 {
+    font-size: 14px;
+}
+
+#accordion > div {
+    padding: 10px;
+}
+
+#accordion input {
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+#blocksList {
+    padding: 20px;
+}
+
+.sortable-content {
+    overflow: auto;
+}
+
+.sortable-content > div {
+    float: left;
+}
+
+.clear{
+    clear: both;
+}
