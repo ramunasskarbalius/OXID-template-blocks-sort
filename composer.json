@@ -1,0 +1,17 @@
+{
+    "name": "skarbalius/OXID-template-blocks-sort",
+    "type": "oxid-module",
+    "description": "OXID template blocks sort",
+    "authors": [
+        {
+            "name": "Ramunas Skarbalius",
+            "email": "ramunas.skarbalius@gmail.com",
+            "homepage": "http://lt.linkedin.com/in/ramunasskarbalius/en",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "composer/installers": "1.0.*@dev"
+    }
+}
